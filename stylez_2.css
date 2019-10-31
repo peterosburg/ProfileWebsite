@@ -128,3 +128,7 @@ img#hero {
     display: none; 
     visibility: hidden;
 }
+
+.social_link_image {
+    width: 25pt;
+}
