@@ -1,0 +1,15 @@
+[
+    {
+        "title" : "Peter Osburg",
+        "head" : "Working in Healthcare IT since 2009",        
+        "text_html" : "profile.html"
+    },
+    {
+        "title" : "Career",
+        "text_html" : "career_table.html"
+    },
+    {
+        "title" : "Personal",
+        "text_html" : "personal.html"
+    }
+]
